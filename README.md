@@ -11,3 +11,6 @@ Le projet est construit avec maven dans NETBEANS appache12. exécutez le sur un 
 - Simplification du code et séparation des interfaces graphiques et la logique de fonctionnement de la montre.
 - Ajouter des nouvelles fonctionnalités qui dépendent de l'état de la montre.
 - Rendre le code maintenable.
+ 
+ NB: pour le professeur
+ - lorsque vous ouvriez le projet vous allez remarquez une erreur signialée ( can't loacte TimeService ), mais lorsque vous l'exécutez, il va marcher correctement, cette erreur n'existe pas dans mon code mais lorsque j'ai téléchargé mon code du github cette erreur apparaît, je ne sais pas pourqoui.
