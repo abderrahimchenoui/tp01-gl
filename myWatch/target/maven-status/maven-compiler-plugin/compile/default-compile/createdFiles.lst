@@ -1,0 +1,6 @@
+org\emp\gl\myWatch\ReglageHourState.class
+org\emp\gl\myWatch\ReglageSecState.class
+org\emp\gl\myWatch\MyWatch.class
+org\emp\gl\myWatch\NormalState.class
+org\emp\gl\myWatch\ReglageMinState.class
+org\emp\gl\myWatch\WatchState.class
